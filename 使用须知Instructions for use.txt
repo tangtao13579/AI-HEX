@@ -1,0 +1,6 @@
+1、AI控制器所有程序版本都有，用途请根据“软件发布登记信息汇总”excel查看或者按照各自需求使用。
+2、远程升级BIN文件都已加密过，无需再加密。
+
+Foreign colleagues, please look here.
+1、All the AI controllers program versions are available, Please check the purpose according to excel "software release registration information summary" or according to your own needs.
+2、Remote update bin files have been encrypted, no need to encrypt.
